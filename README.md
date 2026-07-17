@@ -96,7 +96,7 @@ Publications are continuously added as research projects are completed.
 | Google Scholar | [https://scholar.google.com/...](https://scholar.google.com/citations?user=orflTPAAAAAJ&hl=pt-BR&authuser=1) |
 | ORCID | [ORCID](https://orcid.org/0009-0005-6245-8791) |
 | ResearchGate | [https://researchgate.net/...](https://www.researchgate.net/profile/Felipe-Dos-Santos-Vieira?ev=hdr_xprf) |
-| Portfolio | felyipevieira.netlify.app |
+| Portfolio | [felyipevieira.netlify.app](https://felyipevieira.netlify.app/) |
 | Portfolio | felipevieira.org |
 
 ---
